@@ -32,7 +32,7 @@ span{
   }
   
   .fly-in-text {
-    animation: flyInFromLeft 2.0s ease-out forwards; 
+    animation: flyInFromLeft 1.5s ease-out forwards; 
     display: inline-block;                     
   }
   
